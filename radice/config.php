@@ -1,6 +1,6 @@
 <?php 
-		$con_database=""; 
-		$con_hostname="";
-		$con_user="";
-		$con_password="";
+		$con_database="nokwebflow"; 
+		$con_hostname="nokwebflow.test";
+		$con_user="nokwebflow";
+		$con_password="nokwebflow";
 		?>
